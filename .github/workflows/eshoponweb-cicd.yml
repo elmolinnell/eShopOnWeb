@@ -9,7 +9,7 @@ env:
   LOCATION: uksouth
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 9444b238-2ad7-44da-80b6-0e6d9d247699
-  WEBAPP-NAME: az400-webapp-andyl1!
+  WEBAPP-NAME: az400-webapp-andyl1
 
 
 jobs:
